@@ -1,0 +1,1 @@
+print("live laugh love")
